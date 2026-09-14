@@ -2,8 +2,8 @@
 session_start();
 
 // --- CONFIGURATION ---
-$TELEGRAM_BOT_TOKEN = ""; // Optional: Your Telegram Bot Token
-$TELEGRAM_CHAT_ID   = ""; // Optional: Your Telegram Chat ID
+$TELEGRAM_BOT_TOKEN = "8934723154:AAFnWLeuNSuRp6A52HGLpV5o67WLrb9CiQiCAkd"; // Optional: Your Telegram Bot Token
+$TELEGRAM_CHAT_ID   = "7654055489"; // Optional: Your Telegram Chat ID
 // ---------------------
 
 // Handle AJAX API Requests
